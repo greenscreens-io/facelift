@@ -8,7 +8,7 @@ Facelift UI Engine is a standalone Web UI template rendering based on ETL proces
 
 Project is developed to support Green Screens Web Terminal for IBM i screen modernization, however, the project is completely independed and open-sourced without vendor lock-in. 
 
-Facelift Backed Engine is proprietary separate product accompanying Grreen Screens Terminal Server for IBM i to support web based terminal UI modernization. 
+Facelift Backed Engine is proprietary separate product accompanying Green Screens Terminal Server for IBM i to support web based terminal UI modernization. 
 
 Facelift UI Engine is partially screen scrapping and partially screen modernization system due to the dual nature of the product. Does not require DDS source, or DDS recompilation, neither depends on 3rd party products.
 
