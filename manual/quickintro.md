@@ -7,7 +7,7 @@
  
 **GS Facelift WebComponent** - a Green Screens Ltd. implementation of custom WebComponents used to build interactive UI interfaces for Green Screens 5250 Web Terminal.
 
-**DDS XML Partials** - Facelift backend engine convert DSPF files into series of XML definitions which mirrors Display DDS source used to build DSPF. Each XML document represents a single DDS record format. Where simgle or combination of multipel record formats (partials) makes a UI interface definition.
+**DDS XML Partials** - Facelift backend engine convert DSPF files into series of XML definitions which mirrors Display DDS source used to build DSPF. Each XML document represents a single DDS record format. Where simgle or combination of multiple record formats (partials) makes a UI interface definition.
 
 **DDS Data Source** - Preprocessing WebComponent responsible for ETL transformation. 
 
