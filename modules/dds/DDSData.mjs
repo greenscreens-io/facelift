@@ -124,7 +124,6 @@ export default class DDSData extends HTMLElement {
     }
 
 
-
     static {
         customElements.define('dds-data', DDSData);
         Object.seal(DDSData);

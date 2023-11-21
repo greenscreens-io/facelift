@@ -3,4 +3,5 @@
  */
 
 export * from './dds/index.esm.mjs';
-export { default as FaceliftEngine } from './FaceliftEngine.mjs';
+export * from './base/index.esm.mjs';
+export * from './components/index.esm.mjs';

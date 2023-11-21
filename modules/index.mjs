@@ -3,4 +3,5 @@
  */
 
 import './dds/index.mjs';
-import './FaceliftEngine.mjs';
+import './base/index.mjs';
+import './components/index.mjs';
