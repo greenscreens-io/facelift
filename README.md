@@ -12,7 +12,7 @@ Facelift Backed Engine is proprietary separate product accompanying Green Screen
 
 Facelift UI Engine is partially screen scrapping and partially screen modernization system due to the dual nature of the product. Does not require DDS source, or DDS recompilation, neither depends on 3rd party products.
 
-Default UI is based on our another project [WebComponents for Bootstrap](https://webcomponents.greenscreens.ltd), however, dynamic tempalting and rendering can be modified to use with any other web framework.
+Default UI is based on our another project [WebComponents for Bootstrap](https://webcomponents.greenscreens.ltd), however, dynamic templating and rendering can be modified to use with any other web framework.
 
 <br>
 
